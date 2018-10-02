@@ -33,6 +33,8 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+/unit-testing-angular
+unit-testing-angular.zip
 
 # System Files
 .DS_Store
